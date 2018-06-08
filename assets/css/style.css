@@ -1,0 +1,15 @@
+body {
+    width: 940px;
+    height: 600px;
+    border: solid 2px navy;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p#wins-total {
+    font-size: 14px;
+}
+
+#images {
+   width: 100px;
+   height: 100px;
+}
